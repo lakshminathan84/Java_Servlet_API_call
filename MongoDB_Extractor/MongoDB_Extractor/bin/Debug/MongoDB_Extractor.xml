@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MongoDB_Extractor
+</name>
+</assembly>
+<members>
+<member name="T:MongoDB_Extractor.MongoDBExtractor">
+	<summary>
+ Created by : V 1.0 LKS on Decemeber 2014
+ </summary>
+	<remarks>
+ Mongo DB offline Extractor : Generates the UI output by directly connecting to Mongo DB 
+ </remarks>
+</member><member name="P:MongoDB_Extractor.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MongoDB_Extractor.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:MongoDB_Extractor.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,16 @@
+D:\LKS\UA\MongoDB\MongoDB_Extractor\MongoDB_Extractor\obj\x86\Debug\MongoDB_Extractor.Resources.resources
+D:\LKS\UA\MongoDB\MongoDB_Extractor\MongoDB_Extractor\obj\x86\Debug\MongoDB_Extractor.vbproj.GenerateResource.Cache
+D:\LKS\UA\MongoDB\MongoDB_Extractor\MongoDB_Extractor\obj\x86\Debug\MongoDB_Extractor.vbprojResolveAssemblyReference.cache
+D:\LKS\UA\MongoDB\MongoDB_Extractor\MongoDB_Extractor\bin\Debug\MongoDB_Extractor.exe
+D:\LKS\UA\MongoDB\MongoDB_Extractor\MongoDB_Extractor\bin\Debug\MongoDB_Extractor.pdb
+D:\LKS\UA\MongoDB\MongoDB_Extractor\MongoDB_Extractor\bin\Debug\MongoDB_Extractor.xml
+D:\LKS\UA\MongoDB\MongoDB_Extractor\MongoDB_Extractor\bin\Debug\MongoDB.Bson.dll
+D:\LKS\UA\MongoDB\MongoDB_Extractor\MongoDB_Extractor\bin\Debug\MongoDB.Driver.dll
+D:\LKS\UA\MongoDB\MongoDB_Extractor\MongoDB_Extractor\bin\Debug\MongoDB.Bson.pdb
+D:\LKS\UA\MongoDB\MongoDB_Extractor\MongoDB_Extractor\bin\Debug\MongoDB.Bson.xml
+D:\LKS\UA\MongoDB\MongoDB_Extractor\MongoDB_Extractor\bin\Debug\MongoDB.Driver.pdb
+D:\LKS\UA\MongoDB\MongoDB_Extractor\MongoDB_Extractor\bin\Debug\MongoDB.Driver.xml
+D:\LKS\UA\MongoDB\MongoDB_Extractor\MongoDB_Extractor\obj\x86\Debug\MongoDB_Extractor.exe
+D:\LKS\UA\MongoDB\MongoDB_Extractor\MongoDB_Extractor\obj\x86\Debug\MongoDB_Extractor.xml
+D:\LKS\UA\MongoDB\MongoDB_Extractor\MongoDB_Extractor\obj\x86\Debug\MongoDB_Extractor.pdb
+D:\LKS\UA\MongoDB\MongoDB_Extractor\MongoDB_Extractor\obj\x86\Debug\MongoDB_Extractor.MongoDBExtractor.resources
